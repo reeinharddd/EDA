@@ -12,7 +12,7 @@ public class App {
        System.out.println("3. Consultar ultimo elemento");
        System.out.println("4. Consultar total de elementos");
        System.out.println("5. Saber si la pila esta vacia o no");
-       System.out.println("Saber si la pila esta llena o no");
+       System.out.println("6. Saber si la pila esta llena o no");
        System.out.println("7. Salir");
        System.out.println("Opcion");
        opcion = s.nextInt();
