@@ -10,8 +10,8 @@ public class App {
   List<String> peliculas = new ArrayList<String>();
 
   int num = 0;
-
-  public static void main(String[] args) throws Exception {
+int [][] nummm = {{5,5,5}{5,5,5,5}};
+   public static void main(String[] args) throws Exception {
     App app = new App();
     app.menu();
   } //Main
